@@ -1,0 +1,5 @@
+﻿  test.c
+e:\project\指针\指针\test.c(205): error C2063: “numsSize”: 不是一个函数
+e:\project\指针\指针\test.c(205): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+  e:\project\指针\指针\test.c(205): note: 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  e:\project\指针\指针\test.c(205): note: 缺失的可变参数 1 为格式字符串“%d”所需
